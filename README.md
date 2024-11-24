@@ -29,8 +29,17 @@ The airline data used in this project is publicly available and sourced from IBM
 
 ## Screenshots
 
-
 <img width="583" alt="Dashboard" src="https://github.com/user-attachments/assets/f06298b0-6aff-4937-9e6e-5f8f1e3f8804">
+
+![Carrier_Delay](https://github.com/user-attachments/assets/b2f68324-21e9-4f0a-8c07-3f2efece2606)
+
+![Late_Aircraft_Delay](https://github.com/user-attachments/assets/8f047e64-745c-4756-9139-e3db80911833)
+
+![NAS_Delay](https://github.com/user-attachments/assets/f69bfca2-2b0a-4d57-a27d-1cbacf5a9830)
+
+![Security_Delay](https://github.com/user-attachments/assets/7aaf313b-fc22-41d0-966c-c2181cbdb435)
+
+![Weather_Delay](https://github.com/user-attachments/assets/c5d2b39c-584d-4c0e-861a-d5f8215f631a)
 
 ## Future Enhancements
   - Add more interactivity, such as filtering by airline or month.
