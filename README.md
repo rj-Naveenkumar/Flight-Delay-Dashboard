@@ -27,6 +27,10 @@ This repository contains a Python-based interactive dashboard that visualizes fl
 ## Data Source
 The airline data used in this project is publicly available and sourced from IBM Skills Network.
 
+## Dataset Overview
+
+<img width="559" alt="Dataset" src="https://github.com/user-attachments/assets/b5cb0f67-89f4-45d4-9837-393a45d4df17">
+
 ## Screenshots
 
 <img width="583" alt="Dashboard" src="https://github.com/user-attachments/assets/f06298b0-6aff-4937-9e6e-5f8f1e3f8804">
